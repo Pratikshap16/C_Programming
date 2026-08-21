@@ -6,6 +6,5 @@ int main(){
     printf("Ram Avtar ");
     printf("From Pratiksha");
     
-    
     return 0;
 }
